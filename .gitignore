@@ -1,0 +1,15 @@
+# Local runtime state: config values, presets, caches and launch logs
+config/
+install.json
+
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
